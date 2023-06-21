@@ -46,7 +46,7 @@
     "@angular/platform-browser": "^14.2.12",
     "@angular/platform-browser-dynamic": "^14.2.12",
     "@angular/router": "^14.2.12",
-    "@ng-bootstrap/ng-bootstrap": "^11.0.0-rc.0",
+    "@ng-bootstrap/ng-bootstrap": "^13.1.1",
     "bootstrap-icons": "^1.1.0",
     "core-js": "^3.5.4",
     "detect-passive-events": "^2.0.3",
