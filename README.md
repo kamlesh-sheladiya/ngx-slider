@@ -122,7 +122,7 @@ Before reporting a new bug, please look at [KNOWN_ISSUES.md](KNOWN_ISSUES.md) fo
 
 ## Bugs
 
-You can report any bugs as [Github issues](https://github.com/danisss9/ngx-slider-v2/issues).
+You can report any bugs as [Github issues](https://github.com/kamlesh-sheladiya/ngx-slider-v2/issues).
 
 Please describe the issue in detail pasting any relevant code, or preferrably a StackBlitz with reproduction of the problem by [forking and editing this sample StackBlitz](https://stackblitz.com/edit/ngx-slider-simple-slider-example?file=src/app/app.component.ts). Please also provide the version of NPM package you are using.
 
