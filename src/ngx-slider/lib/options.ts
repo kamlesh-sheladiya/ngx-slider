@@ -165,6 +165,9 @@ export class Options {
   /** Set to true to display a tick for each step of the slider. */
   showTicks?: boolean = false;
 
+  /** Set to true to disable a tick for each step of the slider. (for performance issue when tooltip not required) */
+  disableTicks?: boolean = false;
+
   /** Set to true to display a tick and the step value for each step of the slider.. */
   showTicksValues?: boolean = false;
 

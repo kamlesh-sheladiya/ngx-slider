@@ -7,10 +7,11 @@ import { Options, LabelType } from '@local/ngx-slider';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
-  simpleSliderValue: number = 50;
+  simpleSliderValue: number = 500;
   simpleSliderOptions: Options = {
     floor: 0,
-    ceil: 100
+    ceil: 99999,
+    disableTicks: true
   };
 
   rangeSliderLowValue: number = 25;

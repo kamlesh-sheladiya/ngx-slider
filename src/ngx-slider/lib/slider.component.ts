@@ -323,6 +323,11 @@ export class SliderComponent
     return this.viewOptions.showTicks;
   }
 
+  // Whether to disable/enable ticks
+  public get disableTicks(): boolean {
+    return this.viewOptions.disableTicks;
+  }
+
   /* If tickStep is set or ticksArray is specified.
      In this case, ticks values should be displayed below the slider. */
   private intermediateTicks: boolean = false;
